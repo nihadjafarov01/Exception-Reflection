@@ -1,0 +1,43 @@
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.sourcelink.json
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\Nihad\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\nihad\Desktop\code_academy\birinci_novbe\BirinciNovbe\task_02_11_prak\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\nihad\Desktop\ExceptionReflection\1UserClass\obj\Debug\net7.0\ref\ConsoleApp1.dll
